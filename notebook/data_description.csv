@@ -1,0 +1,43 @@
+short,description
+SpMax_L,Leading eigenvalue from Laplace matri
+J_Dz(e),Balaban-like index from Barysz matrix weighted by Sanderson electronegativit
+nHM,Number of heavy atom
+F01[N-N],Frequency of N-N at topological distance 
+F04[C-N],Frequency of C-N at topological distance 
+NssssC,Number of atoms of type ssss
+nCb-,Number of substituted benzene C(sp2
+C%,Percentage of C atom
+nCp,Number of terminal primary C(sp3
+nO,Number of oxygen atom
+F03[C-N],Frequency of C-N at topological distance 
+SdssC,Sum of dssC E-state
+HyWi_B(m),Hyper-Wiener-like index (log function) from Burden matrix weighted by mas
+LOC,Lopping centric inde
+SM6_L,Spectral moment of order 6 from Laplace matri
+F03[C-O],Frequency of C - O at topological distance 
+Me,Mean atomic Sanderson electronegativity (scaled on Carbon atom
+Mi,Mean first ionization potential (scaled on Carbon atom
+nN-N,Number of N hydrazine
+nArNO2,Number of nitro groups (aromatic
+nCRX3,Number of CRX
+SpPosA_B(p),Normalized spectral positive sum from Burden matrix weighted by polarizabilit
+nCIR,Number of circuit
+B01[C-Br],Presence/absence of C - Br at topological distance 
+B03[C-Cl],Presence/absence of C - Cl at topological distance 
+N-073,Ar2NH / Ar3N / Ar2N-Al / R..N..
+SpMax_A,Leading eigenvalue from adjacency matrix (Lovasz-Pelikan index
+Psi_i_1d,Intrinsic state pseudoconnectivity index - type 1
+B04[C-Br],Presence/absence of C - Br at topological distance 
+SdO,Sum of dO E-state
+TI2_L,Second Mohar index from Laplace matri
+nCrt,Number of ring tertiary C(sp3
+C-026,R--CX--
+F02[C-N],Frequency of C - N at topological distance 
+nHDon,Number of donor atoms for H-bonds (N and O
+SpMax_B(m),Leading eigenvalue from Burden matrix weighted by mas
+Psi_i_A,Intrinsic state pseudoconnectivity index - type S averag
+nN,Number of Nitrogen atom
+SM6_B(m),Spectral moment of order 6 from Burden matrix weighted by mas
+nArCOOR,Number of esters (aromatic
+nX,Number of halogen atom
+experimental class,ready biodegradable (RB) and not ready biodegradable (NR
